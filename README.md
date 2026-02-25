@@ -16,7 +16,6 @@ This tutorial outlines the implementation of preparing Active Directory Infrastr
 - Remote Desktop
 - Active Directory Domain Services
 - PowerShell
-- Domain Controller
 
 <h2>Operating Systems Used </h2>
 
