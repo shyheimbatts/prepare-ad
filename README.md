@@ -35,7 +35,11 @@ This tutorial outlines the implementation of preparing Active Directory Infrastr
 
 <p>
 
-**Step 1-** Start by selecting Resource Group↓
+**Step 1-** Create a Resource Group
+
+<p>
+Start by selecting Resource Group↓
+</p>
   
 </p>
 
