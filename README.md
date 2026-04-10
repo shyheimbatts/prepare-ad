@@ -28,7 +28,7 @@ This tutorial outlines the implementation of preparing Active Directory Infrastr
 
 - Step 1 Create a Resource Group
 - Step 2 Create a Virtual Network and Subnet
-- Step 3 Create the Domain Controller VM(DC-1)
+- Step 3 Create the Domain Controller Virtual Machine(VM):DC-1
 - Step 4 Set Domain Controller's NIC Private IP Address
 
 <h2>Deployment and Configuration Steps</h2>
@@ -151,9 +151,103 @@ Region → (US) East US 2
   
 </p>
 <img width="554" height="739" alt="Azure step 8" src="https://github.com/user-attachments/assets/518c0e3b-fc73-4082-bfa8-b26afd1ac0c1" />
+
+<p>
+
+**Step 3-** Create the Domain Controller Virtual Machine(VM):DC-1
+
+<p>
+  Start by clicking Virtual Machines↓
+</p>
+  
+</p>
 <img width="1137" height="185" alt="Azure step 9" src="https://github.com/user-attachments/assets/419d8103-6935-4019-8f28-f653a7b48580" />
+
+<p>
+
+**Click Create Virtual Machine** to begin the Creation process↓
+  
+</p>
 <img width="1388" height="568" alt="Azure step 10" src="https://github.com/user-attachments/assets/33b26c97-77b1-44be-9ff3-14dc250f0b69" />
+
+<p>
+Fill in the basic information needed to create the Virtual Machine
+
+<p>
+Start Here↓
+</p>
+
+
+**Project Details**
+
+<p>
+Resource group → Active-Directory-Lab
+</p>
+
+<p>
+
+**Instance Details**
+
+Virtual machine name → dc-1
+  
+</p>
+
+
+<p>
+Region → (US) East US 2
+</p>
+
+<p>
+
+**(Continue filling in Virtual Machine Basic Information in Next Picture)**
+  
+</p>
+  
+</p>
 <img width="864" height="700" alt="Azure step 11" src="https://github.com/user-attachments/assets/4792577b-b137-4835-80ad-6a8b600b279a" />
+
+
+<p>
+
+**(Continued Basic Information for Virtual Machine from last Picture)**
+
+<p>
+ 
+  **Image** → Windows Server 2022 Datacenter: Azure Edition - x64 Gen2
+  
+</p>
+
+<p>
+  
+  **Size** → Standard_D2s_v3 - 2 vcpus, 8 GiB memory
+  
+</p>
+
+<p>
+
+**Administrator account**
+
+<p>
+  
+  **Username** → shylabuser
+  
+</p>
+
+<p>
+  
+  **Password** → Myworldlab123!
+  
+</p>
+
+<p>
+  
+  **Confirm password** → Myworldlab123!
+  
+</p>
+  
+</p>
+  
+</p>
 <img width="1075" height="528" alt="Azure step 12" src="https://github.com/user-attachments/assets/362dee79-1a6f-434f-805d-2b63781f9c62" />
 <img width="758" height="554" alt="Azure step 13" src="https://github.com/user-attachments/assets/c45cecef-ea8e-4e22-9713-295a392de2db" />
 <img width="439" height="52" alt="Azure step 14" src="https://github.com/user-attachments/assets/51cf9d7f-9d39-444d-9704-b53a9777589b" />
