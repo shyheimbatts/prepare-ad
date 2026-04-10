@@ -609,6 +609,12 @@ Start by Clicking Virtual Machines↓
 </p>
 <img width="433" height="224" alt="Screenshot 2026-04-10 at 1 17 30 PM" src="https://github.com/user-attachments/assets/4b250d7f-d910-4dcd-8e77-fd8dece2b1f5" />
 
+<p>
+
+**Click Continue↓**
+  
+</p>
+
 <img width="577" height="151" alt="Screenshot 2026-04-10 at 1 18 35 PM" src="https://github.com/user-attachments/assets/59703e73-35bd-4528-9a19-e3a84b6a14c6" />
 
 <p>
