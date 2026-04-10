@@ -34,10 +34,61 @@ This tutorial outlines the implementation of preparing Active Directory Infrastr
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
+
+**Step 1-** Start by selecting Resource Group↓
+  
+</p>
+
+
+
+<p>
 <img width="1236" height="243" alt="Azure step 1" src="https://github.com/user-attachments/assets/55107137-36f5-4a32-9e96-a0ac20a0c123" />
+
+<p>
+
+Click Create to begin the Creation process↓
+  
+</p>
+  
 <img width="1432" height="625" alt="Azure step 2" src="https://github.com/user-attachments/assets/61a69690-eaf6-421b-ae65-e32944effcb2" />
+
+<p>
+
+Fill in the basic information needed to create the resource group.
+
+<p>
+Start Here↓
+</p>
+
+<p>
+Resource group name → Active-Directory-Lab
+</p>
+
+<p>
+Region → (US) East US 2
+</p>
+
+<p>
+
+**Click Review + Create** to confirm the entered information is correct before finalizing the resource group creation.
+  
+</p>
+  
+</p>
 <img width="878" height="769" alt="Azure step 3" src="https://github.com/user-attachments/assets/8e20a6b0-cc8c-43fb-8067-1247ddb19052" />
+
+<p>
+
+**Click Create** now that all information is confirmed and accurate.
+  
+</p>
 <img width="409" height="761" alt="Azure step 4" src="https://github.com/user-attachments/assets/9cace6d5-84c9-48ff-a7d7-2ea2c739531a" />
+
+<p>
+
+**Step 2-** Create a Virtual Network and Subnet↓
+  
+</p>
 <img width="1068" height="178" alt="Azure step 5" src="https://github.com/user-attachments/assets/d1d053fe-e571-440f-909d-4312b6ec34e1" />
 <img width="1199" height="585" alt="Azure step 6" src="https://github.com/user-attachments/assets/97a0e4bc-4171-4067-ae44-eee612dddf0f" />
 <img width="784" height="734" alt="Azure step 7" src="https://github.com/user-attachments/assets/af00e42f-cf39-4ad8-9dbf-3b7c7f3184b3" />
