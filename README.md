@@ -619,17 +619,52 @@ Start by Clicking Virtual Machines↓
 <img width="577" height="151" alt="Screenshot 2026-04-10 at 1 18 35 PM" src="https://github.com/user-attachments/assets/59703e73-35bd-4528-9a19-e3a84b6a14c6" />
 </p>
 
+<p>
+Within the Domain Controller, Right click the Start Menu and go to Run.↓
+</p>
 
 <img width="285" height="599" alt="Azure step 35" src="https://github.com/user-attachments/assets/5ace5bb6-6541-4e89-bd54-9f4e83438ac5" />
+
+<p>
+
+**Type in "wf.msc" and Click Open↓**
+  
+</p>
+
 <p>
   <img width="417" height="228" alt="Azure step 36" src="https://github.com/user-attachments/assets/0ef36eee-da42-4208-8a2b-10e3576fed1f" />
   </p>
+
+<p>
+
+
+Go to Windows Defender Firewall Properties↓  
+</p>
+  
   <img width="581" height="425" alt="Azure step 37" src="https://github.com/user-attachments/assets/71043e03-8485-443c-9e60-c99bf0e6a86b" />
   <p>
-    <img width="393" height="453" alt="Azure step 38" src="https://github.com/user-attachments/assets/671efa0d-7be3-4371-9bf6-947ff3f03a4e" />
-    </p>
-    <img width="394" height="449" alt="Azure step 39" src="https://github.com/user-attachments/assets/46cae06d-e36d-491d-b04d-d8694cee2df2" />
-    <p>
+
+<p>
+
+In the Domain Profile, Firewall state needs to be switched from "On" to "Off"↓  
+</p>
+    
+<img width="393" height="453" alt="Azure step 38" src="https://github.com/user-attachments/assets/671efa0d-7be3-4371-9bf6-947ff3f03a4e" />
+</p>
+
+<p>
+
+In the Private Profile, Firewall state needs to be switched from "On" to "Off"↓  
+</p>
+
+<img width="394" height="449" alt="Azure step 39" src="https://github.com/user-attachments/assets/46cae06d-e36d-491d-b04d-d8694cee2df2" />
+<p>
+<p>
+
+In the Public Profile, Firewall state needs to be switched from "On" to "Off" after that Click "Apply," then "Ok"↓  
+</p>
+
+  
   <img width="391" height="450" alt="Azure step 40" src="https://github.com/user-attachments/assets/fcb33a6a-1bd8-4fb2-83a9-0c00e800b05e" />
   </p> 
   <img width="1137" height="185" alt="Azure step 9" src="https://github.com/user-attachments/assets/8ca31f7f-8723-4bbd-95e2-c3bb6088139b" />
