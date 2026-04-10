@@ -563,8 +563,20 @@ Start by Clicking Virtual Machines↓
   
 </p>
 <img width="511" height="132" alt="Azure step 27" src="https://github.com/user-attachments/assets/3f3e0f04-2dbf-4cbd-83e5-2249556537f7" />
+
+<p>
+
+**Go to Microsoft Remote Desktop Click the "+" sign to Add PC↓**
+  
+</p>
 <img width="820" height="745" alt="Azure step 28" src="https://github.com/user-attachments/assets/70aa15a4-0e69-436a-8996-6fe51b8672a8" />
-<img width="462" height="525" alt="Azure step 29" src="https://github.com/user-attachments/assets/637ef33e-5e61-4634-a11e-21d0d06a0b23" />
+
+<p>
+
+**Enter in the Public IP Address → 20.75.54.23 and a Friendly Name - dc 1, Then Click Add.**
+  
+</p>
+<img width="462" height="521" alt="Screenshot 2026-04-10 at 1 09 27 PM" src="https://github.com/user-attachments/assets/5204f44f-b4c6-42fe-a123-1d23439c9663" />
 <p>
   <img width="379" height="222" alt="Azure step 30" src="https://github.com/user-attachments/assets/e3fe41a7-0bad-4140-b17a-a29bf2bf2fef" />
   </p>
