@@ -144,6 +144,12 @@ Region → (US) East US 2
 </p>
 
 <img width="784" height="734" alt="Azure step 7" src="https://github.com/user-attachments/assets/af00e42f-cf39-4ad8-9dbf-3b7c7f3184b3" />
+
+<p>
+
+**Click Create** now that all information is confirmed and accurate.
+  
+</p>
 <img width="554" height="739" alt="Azure step 8" src="https://github.com/user-attachments/assets/518c0e3b-fc73-4082-bfa8-b26afd1ac0c1" />
 <img width="1137" height="185" alt="Azure step 9" src="https://github.com/user-attachments/assets/419d8103-6935-4019-8f28-f653a7b48580" />
 <img width="1388" height="568" alt="Azure step 10" src="https://github.com/user-attachments/assets/33b26c97-77b1-44be-9ff3-14dc250f0b69" />
