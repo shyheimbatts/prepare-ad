@@ -524,13 +524,13 @@ Start by clicking Virtual Machines↓
 
 <p>
 
-Under the Private IP address setting, change the allocation from "Dynamic" to "Static" Then Click **Save.**
+Under the Private IP address settings, change the allocation from "Dynamic" to "Static" Then Click **Save.**
 
 </p>
 
 <p>
 
-Setting the allocation to "Static" prevents the DC-1 Private IP Address(10.0.0.4) from changing.
+Setting the allocation to "Static" prevents the DC-1 Private IP Address(10.0.0.4) from changing, Regardless of how many times the virtual machine is restarted.
   
 </p>
 
