@@ -378,6 +378,45 @@ Start Here↓
   
 </p>
 <img width="978" height="661" alt="Azure step 17" src="https://github.com/user-attachments/assets/f12a81a6-6f7c-4f76-b154-59bcc5007999" />
+
+<p>
+ 
+  **Image** → Windows 11 Pro, version 24H2 x64 Gen2
+  
+</p>
+
+<p>
+  
+  **Size** → Standard_D2s_v3 - 2 vcpus, 8 GiB memory
+  
+</p>
+
+<p>
+
+**Administrator account**
+
+<p>
+  
+  **Username** → shylabuser
+  
+</p>
+
+<p>
+  
+  **Password** → Myworldlab123!
+  
+</p>
+
+<p>
+  
+  **Confirm password** → Myworldlab123!
+  
+</p>
+
+
+
+
+
 <img width="812" height="576" alt="Azure step 18" src="https://github.com/user-attachments/assets/b740958d-5771-4d42-9b07-38279eb46c38" />
 <img width="485" height="209" alt="Azure step 19" src="https://github.com/user-attachments/assets/a725a78e-c3bf-40af-9859-4f7389ff2ec0" />
 <p>
