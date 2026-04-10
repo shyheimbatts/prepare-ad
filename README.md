@@ -792,7 +792,22 @@ Copy Client-1's Public IP Address **(20.75.89.83)** ↓
 <p>
 <img width="272" height="149" alt="Azure step 50" src="https://github.com/user-attachments/assets/b5165f6c-1533-4d49-8465-92e290e9176a" />
 </p>
+
+<p>
+
+ **Go to Microsoft Remote Desktop Click the "+" sign to Add PC↓**
+
+
+  
+</p>
 <img width="822" height="748" alt="Azure step 51" src="https://github.com/user-attachments/assets/ae58c4f8-8b29-4c85-8feb-5de2d1017c06" />
+
+
+<p>
+
+**Enter in the Public IP Address → 20.75.89.83 and a Friendly Name - client-1, Then Click Add.**  
+
+</p>
 <img width="457" height="530" alt="Azure step 52" src="https://github.com/user-attachments/assets/3fbb10c1-5fe3-426b-b17c-275bb780a4ac" />
 <p>
 <img width="374" height="216" alt="Azure step 53" src="https://github.com/user-attachments/assets/93a52793-dca7-446d-ba40-c0d1220990dd" />
