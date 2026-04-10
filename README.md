@@ -810,11 +810,57 @@ Copy Client-1's Public IP Address **(20.75.89.83)** ↓
 </p>
 <img width="457" height="530" alt="Azure step 52" src="https://github.com/user-attachments/assets/3fbb10c1-5fe3-426b-b17c-275bb780a4ac" />
 <p>
+
+<p>
+
+**Click on Client-1 to Connect to the Virtual Machine.↓**
+
+</p>
+
+  
 <img width="374" height="216" alt="Azure step 53" src="https://github.com/user-attachments/assets/93a52793-dca7-446d-ba40-c0d1220990dd" />
+</p>
+
+
+<p>
+
+**Enter in User Account Information↓**
+
+<p>
+ Username - shylabuser 
+</p>
+
+<p>
+ Password - Myworldlab123! 
+</p>
+
+<p>
+
+**Click Continue to Log In↓**
+  
+</p>
+
+
+  
 </p>
 <img width="435" height="226" alt="Azure step 54" src="https://github.com/user-attachments/assets/ae1589bb-553f-4f4f-9df2-7d8facabae9a" />
 <p>
+
+<p>
+
+**Click Continue↓**
+  
+ 
+</p>
+
+  
 <img width="565" height="154" alt="Azure step 55" src="https://github.com/user-attachments/assets/7c1df4ba-fad1-49af-8c20-8ce8cb9864a2" />
+</p>
+
+<p>
+
+**Logged In to Client-1**
+  
 </p>
 <img width="411" height="505" alt="Azure step 56" src="https://github.com/user-attachments/assets/4490e51a-73f4-49c5-b9d7-d8450c3e7741" />
 <p>
