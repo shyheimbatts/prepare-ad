@@ -368,6 +368,11 @@ Start Here↓
   
 </p>
 
+<p>
+
+**(Continue filling in Virtual Machine Basic Information in Next Picture)**
+  
+</p>
 
 
   
