@@ -28,8 +28,9 @@ This tutorial outlines the implementation of preparing Active Directory Infrastr
 
 - Step 1 Create a Resource Group
 - Step 2 Create a Virtual Network and Subnet
-- Step 3 Create the Domain Controller Virtual Machine(VM):DC-1
-- Step 4 Set Domain Controller's NIC Private IP Address
+- Step 3 Create the Domain Controller Virtual Machine(VM): "DC-1"
+- Step 4 Create the Client Virtual Machine(VM): "Client-1"
+- Step 5 Set Domain Controller's NIC Private IP Address
 
 <h2>Deployment and Configuration Steps</h2>
 
@@ -162,7 +163,7 @@ Start Here↓
 
 <p>
 
-**Step 3-** Create the Domain Controller Virtual Machine(VM):DC-1
+**Step 3-** Create the Domain Controller Virtual Machine(VM): "DC-1"
 
 <p>
   Start by clicking Virtual Machines↓
@@ -315,7 +316,24 @@ Start Here↓
 
 </p>
 <img width="779" height="682" alt="Azure step 16" src="https://github.com/user-attachments/assets/cc9f9e4a-b5ef-469d-9e4e-d270bd6ef5ec" />
+
+<p>
+
+**Step 4-** Create the Client Virtual Machine(VM): "Client-1"
+<p>
+  Start by clicking Virtual Machines↓
+</p>
+  
+</p>
 <img width="1137" height="185" alt="Azure step 9" src="https://github.com/user-attachments/assets/080b898a-8e0c-49f0-a277-0136df1d739f" />
+
+<p>
+
+**Click Create Virtual Machine** to begin the Creation process↓
+  
+</p>
+
+
 <img width="1388" height="568" alt="Azure step 10" src="https://github.com/user-attachments/assets/106a269e-08db-42aa-8036-95926e700f8a" />
 <img width="978" height="661" alt="Azure step 17" src="https://github.com/user-attachments/assets/f12a81a6-6f7c-4f76-b154-59bcc5007999" />
 <img width="812" height="576" alt="Azure step 18" src="https://github.com/user-attachments/assets/b740958d-5771-4d42-9b07-38279eb46c38" />
