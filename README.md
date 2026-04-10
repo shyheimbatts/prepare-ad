@@ -65,11 +65,15 @@ Start Here↓
 </p>
 
 <p>
-Resource group name → Active-Directory-Lab
+
+  **Resource group name** → Active-Directory-Lab
+  
 </p>
 
 <p>
-Region → (US) East US 2
+
+  **Region** → (US) East US 2
+  
 </p>
 
 <p>
@@ -117,20 +121,24 @@ Start Here↓
 **Project Details**
 
 <p>
-Resource group name → Active-Directory-Lab
+
+  **Resource group name** → Active-Directory-Lab
+  
 </p>
 
 <p>
 
 **Instance Details**
 
-Virtual network name → Active-Directory-VNet
+**Virtual network name** → Active-Directory-VNet
   
 </p>
 
 
 <p>
-Region → (US) East US 2
+
+  **Region** → (US) East US 2
+  
 </p>
 
 <p>
@@ -181,20 +189,24 @@ Start Here↓
 **Project Details**
 
 <p>
-Resource group → Active-Directory-Lab
+
+  **Resource group** → Active-Directory-Lab
+  
 </p>
 
 <p>
 
 **Instance Details**
 
-Virtual machine name → dc-1
+**Virtual machine name** → dc-1
   
 </p>
 
 
 <p>
-Region → (US) East US 2
+
+  **Region** → (US) East US 2
+  
 </p>
 
 <p>
