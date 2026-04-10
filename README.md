@@ -750,6 +750,13 @@ Add DC-1's Private IP Address **(10.0.0.4)** to Client-1's DNS Server↓
     
 <img width="324" height="174" alt="Azure step 46" src="https://github.com/user-attachments/assets/62108960-92dc-4b97-b4bb-122d5fd37eb5" />
 </p>
+
+<p>
+
+**Click Save**
+  
+</p>
+
 <img width="177" height="54" alt="Azure step 47" src="https://github.com/user-attachments/assets/78179522-921c-48c6-9ae2-f70d38477f1d" />
 <p>
 <img width="459" height="152" alt="Azure step 48" src="https://github.com/user-attachments/assets/84e1d9aa-019a-46ec-839a-a0e3fb8f986d" />
