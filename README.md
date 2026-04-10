@@ -512,8 +512,28 @@ Start by clicking Virtual Machines↓
   
 <p>
   <img width="465" height="104" alt="Azure step 24" src="https://github.com/user-attachments/assets/81be5f42-7338-4110-8b3a-3466ae5450a0" />
-  </p>
-  <img width="835" height="78" alt="Azure step 25" src="https://github.com/user-attachments/assets/740b5411-ba33-44b8-a21d-becdb765a19b" />
+ </p>
+
+<p>
+
+**Click on "ipconfig1"↓**
+  
+</p>
+ 
+<img width="835" height="78" alt="Azure step 25" src="https://github.com/user-attachments/assets/740b5411-ba33-44b8-a21d-becdb765a19b" />
+
+<p>
+
+Under the Private IP address setting, change the allocation from "Dynamic" to "Static" Then Click **Save.**
+
+</p>
+
+<p>
+
+Setting the allocation to "Static" prevents the DC-1 Private IP Address(10.0.0.4) from changing.
+  
+</p>
+
 <img width="578" height="484" alt="Azure step 26" src="https://github.com/user-attachments/assets/fae51949-2c79-46da-b672-44c0463d2d87" />
 <img width="1137" height="185" alt="Azure step 9" src="https://github.com/user-attachments/assets/1e7272e2-9c54-4741-8188-82fc1342e327" />
 <img width="1433" height="288" alt="Azure step 22" src="https://github.com/user-attachments/assets/fd4f74f0-45ec-49d1-94b7-0c4cfec7ff02" />
