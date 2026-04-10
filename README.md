@@ -30,7 +30,7 @@ This tutorial outlines the implementation of preparing Active Directory Infrastr
 - Step 2 Create a Virtual Network and Subnet
 - Step 3 Create the Domain Controller Virtual Machine(VM): "DC-1"
 - Step 4 Create the Client Virtual Machine(VM): "Client-1"
-- Step 5 Set Domain Controller's NIC Private IP Address
+- Step 5 Change Domain Controller's NIC Private IP Address Settings
 - Step 6 Log Into the Domain Controller With Public IP Address & Disable Windows Firewall (Testing Connectivity)
 - Step 7 Set Client-1's DNS settings to DC-1'S Private IP Address
 
@@ -483,7 +483,7 @@ Start Here↓
 
 <p>
 
-**Step 5-** Set Domain Controller's NIC Private IP Address
+**Step 5-** Change Domain Controller's NIC Private IP Address Settings
 
 Start by clicking Virtual Machines↓
 
@@ -753,13 +753,27 @@ Add DC-1's Private IP Address **(10.0.0.4)** to Client-1's DNS Server↓
 
 <p>
 
-**Click Save**
+**Click Save↓**
   
 </p>
 
 <img width="177" height="54" alt="Azure step 47" src="https://github.com/user-attachments/assets/78179522-921c-48c6-9ae2-f70d38477f1d" />
+
+<p>
+
+**Click Virtual Machines↓**
+  
+</p>
+
 <p>
 <img width="459" height="152" alt="Azure step 48" src="https://github.com/user-attachments/assets/84e1d9aa-019a-46ec-839a-a0e3fb8f986d" />
+</p>
+
+
+<p>
+
+**Check Mark client-1's Virtual Machine and Restart it to make the DNS settings become active↓**
+  
 </p>
 <img width="1188" height="224" alt="Azure step 49" src="https://github.com/user-attachments/assets/e9fb9167-a654-4aad-bd32-74976720172a" />
 <img width="269" height="33" alt="Azure step 42" src="https://github.com/user-attachments/assets/9cfac098-0318-4a0d-a593-44c882abbe7b" />
