@@ -615,12 +615,11 @@ Start by Clicking Virtual Machines↓
   
 </p>
 
-<img width="577" height="151" alt="Screenshot 2026-04-10 at 1 18 35 PM" src="https://github.com/user-attachments/assets/59703e73-35bd-4528-9a19-e3a84b6a14c6" />
-
 <p>
-  <img width="257" height="676" alt="Azure step 33" src="https://github.com/user-attachments/assets/91f424a7-0556-4cc4-8656-4ccb1e9b2082" />
-  </p>
-  <img width="1022" height="798" alt="Azure step 34" src="https://github.com/user-attachments/assets/a0424bd3-6eac-42dc-8700-c7c960047e83" />
+<img width="577" height="151" alt="Screenshot 2026-04-10 at 1 18 35 PM" src="https://github.com/user-attachments/assets/59703e73-35bd-4528-9a19-e3a84b6a14c6" />
+</p>
+
+
 <img width="285" height="599" alt="Azure step 35" src="https://github.com/user-attachments/assets/5ace5bb6-6541-4e89-bd54-9f4e83438ac5" />
 <p>
   <img width="417" height="228" alt="Azure step 36" src="https://github.com/user-attachments/assets/0ef36eee-da42-4208-8a2b-10e3576fed1f" />
