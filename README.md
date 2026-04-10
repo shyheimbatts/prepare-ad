@@ -776,7 +776,19 @@ Add DC-1's Private IP Address **(10.0.0.4)** to Client-1's DNS Server↓
   
 </p>
 <img width="1188" height="224" alt="Azure step 49" src="https://github.com/user-attachments/assets/e9fb9167-a654-4aad-bd32-74976720172a" />
+
+<p>
+
+**Click Client-1's virtual machine to collect the Public IP Address↓**  
+</p>
 <img width="269" height="33" alt="Azure step 42" src="https://github.com/user-attachments/assets/9cfac098-0318-4a0d-a593-44c882abbe7b" />
+
+<p>
+
+Copy Client-1's Public IP Address **(20.75.89.83)** ↓
+
+</p>
+
 <p>
 <img width="272" height="149" alt="Azure step 50" src="https://github.com/user-attachments/assets/b5165f6c-1533-4d49-8465-92e290e9176a" />
 </p>
