@@ -31,6 +31,7 @@ This tutorial outlines the implementation of preparing Active Directory Infrastr
 - Step 3 Create the Domain Controller Virtual Machine(VM): "DC-1"
 - Step 4 Create the Client Virtual Machine(VM): "Client-1"
 - Step 5 Set Domain Controller's NIC Private IP Address
+- Step 6 Log Into the Domain Controller With Public IP Address & Disable Windows Firewall (Testing Connectivity)
 
 <h2>Deployment and Configuration Steps</h2>
 
