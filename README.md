@@ -863,17 +863,64 @@ Copy Client-1's Public IP Address **(20.75.89.83)** ↓
   
 </p>
 <img width="411" height="505" alt="Azure step 56" src="https://github.com/user-attachments/assets/4490e51a-73f4-49c5-b9d7-d8450c3e7741" />
+
+
 <p>
-  <img width="459" height="152" alt="Azure step 48" src="https://github.com/user-attachments/assets/491c1b6e-21cc-44b4-acfd-873c1593d92c" />
+
+**Start by clicking Virtual Machines↓**
+
+
 </p>
+
+
 <p>
-  <img width="290" height="34" alt="Azure step 57" src="https://github.com/user-attachments/assets/2e5df258-1e2a-4c12-8a45-5e198a8d9689" />
+<img width="459" height="152" alt="Azure step 48" src="https://github.com/user-attachments/assets/491c1b6e-21cc-44b4-acfd-873c1593d92c" />
 </p>
+
+<p>
+
+**Click on DC-1 Virtual Machine↓**
+  
+</p>
+
+
+
+<p>
+<img width="290" height="34" alt="Azure step 57" src="https://github.com/user-attachments/assets/2e5df258-1e2a-4c12-8a45-5e198a8d9689" />
+</p>
+
+
+**Copy DC-1'S Private IP Address so that Client-1 can attempt to ping it.↓**
+
 <img width="376" height="126" alt="Azure step 58" src="https://github.com/user-attachments/assets/38f19968-ef27-4b04-a0fe-95c5eef176e9" />
+
+<p>
+
+Return to Client-1's VM, Click the start menu and search and open Powershell.↓  
+</p>
+
 <p>
 <img width="371" height="772" alt="Azure step 59" src="https://github.com/user-attachments/assets/d6c528e1-71d1-41c5-8abc-af567b6b9386" />
 </p>
+
+<p>
+  
+**Type "Ping" and paste DC-1'S Private IP Address(10.0.0.4)↓**
+<p>
+
+The replies confirm that the ping was successful.
+  
+</p>
+
+</p>
+
 <img width="1114" height="420" alt="Azure step 60" src="https://github.com/user-attachments/assets/4a6a5f49-e0a7-48a9-bd92-c331f3a3bbdb" />
+
+<p>
+
+  
+</p>
+
 <img width="1101" height="595" alt="Azure step 61" src="https://github.com/user-attachments/assets/8ebe5d04-202a-4fd2-b26d-ad8714263141" />
 
 
