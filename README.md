@@ -50,7 +50,7 @@ Start by selecting Resource Group↓
 
 <p>
 
-Click Create to begin the Creation process↓
+**Click Create** to begin the Creation process↓
   
 </p>
   
@@ -98,7 +98,51 @@ Region → (US) East US 2
   
 </p>
 <img width="1068" height="178" alt="Azure step 5" src="https://github.com/user-attachments/assets/d1d053fe-e571-440f-909d-4312b6ec34e1" />
+<p>
+
+**Click Create** to begin the Creation process↓
+
+</p>
 <img width="1199" height="585" alt="Azure step 6" src="https://github.com/user-attachments/assets/97a0e4bc-4171-4067-ae44-eee612dddf0f" />
+
+<p>
+
+Fill in the basic information needed to create the Virtual Network.
+
+<p>
+Start Here↓
+</p>
+
+
+**Project Details**
+
+<p>
+Resource group name → Active-Directory-Lab
+</p>
+
+<p>
+
+**Instance Details**
+
+Virtual network name → Active-Directory-VNet
+  
+</p>
+
+
+<p>
+Region → (US) East US 2
+</p>
+
+<p>
+
+**Click Review + Create** to confirm the entered information is correct before finalizing the Virtual Network.
+  
+</p>
+
+
+
+</p>
+
 <img width="784" height="734" alt="Azure step 7" src="https://github.com/user-attachments/assets/af00e42f-cf39-4ad8-9dbf-3b7c7f3184b3" />
 <img width="554" height="739" alt="Azure step 8" src="https://github.com/user-attachments/assets/518c0e3b-fc73-4082-bfa8-b26afd1ac0c1" />
 <img width="1137" height="185" alt="Azure step 9" src="https://github.com/user-attachments/assets/419d8103-6935-4019-8f28-f653a7b48580" />
