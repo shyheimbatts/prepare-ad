@@ -32,6 +32,7 @@ This tutorial outlines the implementation of preparing Active Directory Infrastr
 - Step 4 Create the Client Virtual Machine(VM): "Client-1"
 - Step 5 Set Domain Controller's NIC Private IP Address
 - Step 6 Log Into the Domain Controller With Public IP Address & Disable Windows Firewall (Testing Connectivity)
+- Step 7 Set Client-1's DNS settings to DC-1'S Private IP Address
 
 <h2>Deployment and Configuration Steps</h2>
 
@@ -667,15 +668,62 @@ In the Public Profile, Firewall state needs to be switched from "On" to "Off" af
   
   <img width="391" height="450" alt="Azure step 40" src="https://github.com/user-attachments/assets/fcb33a6a-1bd8-4fb2-83a9-0c00e800b05e" />
   </p> 
+
+<p>
+
+**Step 7-** Set Client-1's DNS settings to DC-1'S Private IP Address
+
+<p>
+  Start by clicking Virtual Machines↓
+</p>
+
+  
   <img width="1137" height="185" alt="Azure step 9" src="https://github.com/user-attachments/assets/8ca31f7f-8723-4bbd-95e2-c3bb6088139b" />
+<p>
+
+
+**Click on DC-1 Virtual Machine↓**
+  
+</p>
+
+  
   <img width="1433" height="288" alt="Azure step 22" src="https://github.com/user-attachments/assets/6aa8f8a6-79e6-425d-94b0-fd88066a600d" />
+
+  <p>
+
+**Copy DC-1'S Private IP Address(10.0.0.4)↓**
+    
+  </p>
   <img width="464" height="224" alt="Azure step 41" src="https://github.com/user-attachments/assets/658cc71c-dd00-4d94-bd1b-210192876dbc" />
+ 
+<p>
+
+**Go to Client-1's Virtual Machine↓**
+    
+</p>
+  
+  
   <p>
     <img width="269" height="33" alt="Azure step 42" src="https://github.com/user-attachments/assets/91e3a30d-36c5-4213-b53f-89bb3cd54705" />
   </p>
+<p>
+
+**Click on Networking drop down and go to Network Settings↓**
+  
+</p>
+
+
+  
   <img width="247" height="392" alt="Azure step 43" src="https://github.com/user-attachments/assets/1acdc03b-0c46-40f1-899f-ae9199cd6512" />
   <p>
-    <img width="464" height="67" alt="Azure step 44" src="https://github.com/user-attachments/assets/2e9cc12b-223f-433a-8060-0538f16d13df" />
+
+<p>
+
+**Click on the Virtual Network Interface Card(NIC) that Client-1 is using↓**
+
+</p>
+
+  <img width="464" height="67" alt="Azure step 44" src="https://github.com/user-attachments/assets/2e9cc12b-223f-433a-8060-0538f16d13df" />
   </p>
 <img width="286" height="361" alt="Azure step 45" src="https://github.com/user-attachments/assets/1a0e96fc-764d-461e-b1a0-2fe636ec71e4" />
 <p>
