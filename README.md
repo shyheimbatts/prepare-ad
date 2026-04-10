@@ -918,7 +918,7 @@ The replies confirm that the ping was successful.
 
 <p>
 
-  
+Run ipconfig /all by typing it in Powershell. The output for the DNS setting should show DC-1'S Private IP Address↓  
 </p>
 
 <img width="1101" height="595" alt="Azure step 61" src="https://github.com/user-attachments/assets/8ebe5d04-202a-4fd2-b26d-ad8714263141" />
