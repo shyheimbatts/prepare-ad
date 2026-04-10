@@ -90,7 +90,11 @@ Region → (US) East US 2
 
 <p>
 
-**Step 2-** Create a Virtual Network and Subnet↓
+**Step 2-** Create a Virtual Network and Subnet
+
+<p>
+  Start by clicking Virtual Networks↓
+</p>
   
 </p>
 <img width="1068" height="178" alt="Azure step 5" src="https://github.com/user-attachments/assets/d1d053fe-e571-440f-909d-4312b6ec34e1" />
