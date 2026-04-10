@@ -261,7 +261,25 @@ Start Here↓
   
 </p>
 <img width="1075" height="528" alt="Azure step 12" src="https://github.com/user-attachments/assets/362dee79-1a6f-434f-805d-2b63781f9c62" />
+<p>
+
+Be sure to Check Mark both boxes for licensing.
+
+<p>
+
+**Then Click Next for Disk↓**
+  
+</p>
+  
+</p>
 <img width="758" height="554" alt="Azure step 13" src="https://github.com/user-attachments/assets/c45cecef-ea8e-4e22-9713-295a392de2db" />
+
+<p>
+
+**Click Next for Networking↓**
+
+
+</p>
 <img width="439" height="52" alt="Azure step 14" src="https://github.com/user-attachments/assets/51cf9d7f-9d39-444d-9704-b53a9777589b" />
 <img width="771" height="618" alt="Azure step 15" src="https://github.com/user-attachments/assets/b827d02b-398e-4f90-96ee-59066bc1d5e4" />
 <img width="779" height="682" alt="Azure step 16" src="https://github.com/user-attachments/assets/cc9f9e4a-b5ef-469d-9e4e-d270bd6ef5ec" />
