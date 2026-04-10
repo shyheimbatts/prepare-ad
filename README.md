@@ -281,7 +281,39 @@ Be sure to Check Mark both boxes for licensing.
 
 </p>
 <img width="439" height="52" alt="Azure step 14" src="https://github.com/user-attachments/assets/51cf9d7f-9d39-444d-9704-b53a9777589b" />
+<p>
+Fill in the Networking information needed to create the Virtual Machine.
+
+<p>
+Start Here↓
+</p>
+
+<p>
+
+  **Virtual Network** → Active-Directory-VNet (Active-Directory-Lab)
+  
+</p>
+
+<p>
+
+  **Subnet** → default
+  
+</p>
+
+<p>
+
+**Click Review + Create** to confirm the entered information is correct before finalizing the Virtual Machine.
+
+  
+</p>
 <img width="771" height="618" alt="Azure step 15" src="https://github.com/user-attachments/assets/b827d02b-398e-4f90-96ee-59066bc1d5e4" />
+
+<p>
+
+**Click Create** now that all information is confirmed and accurate.
+
+
+</p>
 <img width="779" height="682" alt="Azure step 16" src="https://github.com/user-attachments/assets/cc9f9e4a-b5ef-469d-9e4e-d270bd6ef5ec" />
 <img width="1137" height="185" alt="Azure step 9" src="https://github.com/user-attachments/assets/080b898a-8e0c-49f0-a277-0136df1d739f" />
 <img width="1388" height="568" alt="Azure step 10" src="https://github.com/user-attachments/assets/106a269e-08db-42aa-8036-95926e700f8a" />
