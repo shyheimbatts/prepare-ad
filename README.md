@@ -577,11 +577,20 @@ Start by Clicking Virtual Machines↓
   
 </p>
 <img width="462" height="521" alt="Screenshot 2026-04-10 at 1 09 27 PM" src="https://github.com/user-attachments/assets/5204f44f-b4c6-42fe-a123-1d23439c9663" />
+
 <p>
-  <img width="379" height="222" alt="Azure step 30" src="https://github.com/user-attachments/assets/e3fe41a7-0bad-4140-b17a-a29bf2bf2fef" />
-  </p>
-  <img width="435" height="224" alt="Azure step 31" src="https://github.com/user-attachments/assets/0e0a5c9a-8d07-4539-b6e3-374b6074ce8a" />
-  <img width="579" height="158" alt="Azure step 32" src="https://github.com/user-attachments/assets/36c96870-b455-4c89-a6ca-249dd60ad9ce" />
+
+**Click on DC-1 to Connect to the Virtual Machine.↓**
+  
+</p>
+
+<p>
+ <img width="376" height="224" alt="Screenshot 2026-04-10 at 1 16 57 PM" src="https://github.com/user-attachments/assets/74a82455-9683-461d-a570-f5e9964503d8" />
+</p>
+<img width="433" height="224" alt="Screenshot 2026-04-10 at 1 17 30 PM" src="https://github.com/user-attachments/assets/4b250d7f-d910-4dcd-8e77-fd8dece2b1f5" />
+
+<img width="577" height="151" alt="Screenshot 2026-04-10 at 1 18 35 PM" src="https://github.com/user-attachments/assets/59703e73-35bd-4528-9a19-e3a84b6a14c6" />
+
 <p>
   <img width="257" height="676" alt="Azure step 33" src="https://github.com/user-attachments/assets/91f424a7-0556-4cc4-8656-4ccb1e9b2082" />
   </p>
