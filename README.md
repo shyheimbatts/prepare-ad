@@ -469,7 +469,24 @@ Start Here↓
 
  
  <img width="937" height="697" alt="Azure step 20" src="https://github.com/user-attachments/assets/f662f356-add2-4287-b8ed-3005d5621e06" />
+
+<p>
+
+**Click Create** now that all information is confirmed and accurate.
+
+
+</p>
+ 
  <img width="590" height="682" alt="Azure step 21" src="https://github.com/user-attachments/assets/43dc1e7d-01f2-4c34-a57d-8a808b3229e3" />
+
+<p>
+
+**Step 5-** Set Domain Controller's NIC Private IP Address
+
+Start by clicking Virtual Machines↓
+
+</p>
+ 
  <img width="1137" height="185" alt="Azure step 9" src="https://github.com/user-attachments/assets/94cde637-6cd7-4e3e-a340-35159ec7fd78" />
  <img width="1433" height="288" alt="Azure step 22" src="https://github.com/user-attachments/assets/23dea0e0-6e8b-48da-9b5e-caa1fbec72a9" />
 <img width="252" height="386" alt="Azure step 23" src="https://github.com/user-attachments/assets/424daa5b-7683-4684-8544-c6bc24f9751d" />
