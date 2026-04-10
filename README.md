@@ -335,6 +335,43 @@ Start Here↓
 
 
 <img width="1388" height="568" alt="Azure step 10" src="https://github.com/user-attachments/assets/106a269e-08db-42aa-8036-95926e700f8a" />
+
+<p>
+<p>
+Fill in the basic information needed to create the Virtual Machine
+
+<p>
+Start Here↓
+</p>
+
+
+**Project Details**
+
+<p>
+
+  **Resource group** → Active-Directory-Lab
+  
+</p>
+
+<p>
+
+**Instance Details**
+
+**Virtual machine name** → client-1
+  
+</p>
+
+
+<p>
+
+  **Region** → (US) East US 2
+  
+</p>
+
+
+
+  
+</p>
 <img width="978" height="661" alt="Azure step 17" src="https://github.com/user-attachments/assets/f12a81a6-6f7c-4f76-b154-59bcc5007999" />
 <img width="812" height="576" alt="Azure step 18" src="https://github.com/user-attachments/assets/b740958d-5771-4d42-9b07-38279eb46c38" />
 <img width="485" height="209" alt="Azure step 19" src="https://github.com/user-attachments/assets/a725a78e-c3bf-40af-9859-4f7389ff2ec0" />
