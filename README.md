@@ -26,10 +26,10 @@ This tutorial outlines the implementation of preparing Active Directory Infrastr
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1 Create a Resource Group
+- Step 2 Create a Virtual Network and Subnet
+- Step 3 Create the Domain Controller VM(DC-1)
+- Step 4 Set Domain Controller's NIC Private IP Address
 
 <h2>Deployment and Configuration Steps</h2>
 
