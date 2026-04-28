@@ -6,9 +6,6 @@
 This tutorial outlines the implementation of preparing Active Directory Infrastructer in Azure.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to Prepare Active Directory Infrastructure in Azure](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
